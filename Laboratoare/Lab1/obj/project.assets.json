@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programare\\Github\\UI\\Laboratoare\\Laboratoare.csproj",
+      "projectUniqueName": "D:\\Programare\\Github\\UI\\Laboratoare\\Lab1\\Laboratoare.csproj",
       "projectName": "Laboratoare",
-      "projectPath": "D:\\Programare\\Github\\UI\\Laboratoare\\Laboratoare.csproj",
+      "projectPath": "D:\\Programare\\Github\\UI\\Laboratoare\\Lab1\\Laboratoare.csproj",
       "packagesPath": "C:\\Users\\matei\\.nuget\\packages\\",
-      "outputPath": "D:\\Programare\\Github\\UI\\Laboratoare\\obj\\",
+      "outputPath": "D:\\Programare\\Github\\UI\\Laboratoare\\Lab1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\matei\\AppData\\Roaming\\NuGet\\NuGet.Config"
